@@ -1,1 +1,0 @@
-# challenge-alura-juego-ahorcado
